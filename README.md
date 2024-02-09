@@ -8,7 +8,7 @@ This repository contains the files for the module 19 homework assignment: blockc
 
 ### Primary Code
 
-All of the primary code can be found in the Python files named "krypto_jobs.py" and "crypto_wallet.py", which are located in this folder.  "krypto_jobs.py" contains the streamlit code for the data application and "crypto_wallet.py" contains functions used by the "krypto_jobs.py" code.
+All of the primary code can be found in the Python files named "krypto_jobs.py" and "crypto_wallet.py", which are located in this folder.  "krypto_jobs.py" contains the Streamlit code for the data application and "crypto_wallet.py" contains functions used by the "krypto_jobs.py" code.
 
 ### Stock Images
 
@@ -27,7 +27,7 @@ To demonstrate the functionality of the Streamlit application, consider the foll
 
 ![Initial Ganache Workspace](./Application_Images/01_ganache_initial_workspace.png)
 
-The first account (index 0) belongs to the user, which in this case is me.  The second through fifth accounts belong to Lane, Ash, Jo, and Kendall at indices 1-4, respectively.  As a part of this exercise, I will send 40 hours' worth of eth to Jo at their hourly rate (0.19 eth) for a total of 7.6 eth transferred.
+The first account (index 0) belongs to the user, which in this case is me.  The second through fifth accounts belong to Lane, Ash, Jo, and Kendall at indices 1-4, respectively.  As a part of this exercise, I will send 40 hours' worth of eth to Jo at their hourly rate (0.19 eth) for a total of 7.60 eth transferred.
 
 The Streamlit application looks like this:
 
